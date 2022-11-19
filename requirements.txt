@@ -6,3 +6,4 @@ numpy
 -e .
 ipykernel
 PyYAML
+evidently
